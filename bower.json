@@ -1,0 +1,31 @@
+{
+  "name": "BeamStatsApp",
+  "description": "A BeamStatsApp Application Made in Electron",
+  "main": "main.js",
+  "authors": [
+    "StreamStats"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Electron",
+    "StreamStats",
+    "App",
+    "Great"
+  ],
+  "homepage": "https://github.com/StreamStats/StreamStatsApp",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "angular": "^1.5.1",
+    "angular-route": "^1.5.1",
+    "angular-animate": "^1.5.1"
+  }
+}
