@@ -1,11 +1,11 @@
 {
-  "name": "BeamStatsApp",
+  "name": "StreamStatsApp",
   "version": "1.0.0",
-  "description": "A BeamStatsApp Application Made in Electron ",
+  "description": "A StreamStatsApp Application Made in Electron ",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thebaconspace/BaconSpaceApp.git"
+    "url": "git+https://github.com/StreamStats/StreamStatsApp.git"
   },
     "scripts": {
     "start": "electron main.js"
@@ -19,9 +19,9 @@
   "author": "StreamStats",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thebaconspace/BaconSpaceApp/issues"
+    "url": "https://github.com/StreamStats/StreamStatsApp/issues"
   },
-  "homepage": "https://github.com/thebaconspace/BaconSpaceApp",
+  "homepage": "https://github.com/StreamStatsApp/StreamStatsApp",
   "devDependencies": {
     "electron-prebuilt": "^0.36.0"
   },
