@@ -1,6 +1,6 @@
 {
-  "name": "BeamStatsApp",
-  "description": "A BeamStatsApp Application Made in Electron",
+  "name": "StreamStatsApp",
+  "description": "A StreamStatsApp Application Made in Electron",
   "main": "main.js",
   "authors": [
     "StreamStats"
