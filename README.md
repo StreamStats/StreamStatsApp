@@ -1,2 +1,2 @@
 # StreamStatsApp
-StreamStatsApp
+StreamStatsApp :zap:
