@@ -8,7 +8,9 @@
     "url": "git+https://github.com/StreamStats/StreamStatsApp.git"
   },
     "scripts": {
-    "start": "electron main.js"
+    "start": "electron main.js",
+    "matirialize": "bower install materialize"
+    
   },
   "keywords": [
     "Electron",
