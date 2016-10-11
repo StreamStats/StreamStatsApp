@@ -10,7 +10,6 @@
     "scripts": {
     "start": "electron main.js",
     "materialize": "bower install materialize"
-    
   },
   "keywords": [
     "Electron",
